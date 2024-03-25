@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Demographics/static/css/main.172f71d6.css",
+    "main.js": "/Demographics/static/js/main.c4880414.js",
+    "index.html": "/Demographics/index.html",
+    "main.172f71d6.css.map": "/Demographics/static/css/main.172f71d6.css.map",
+    "main.c4880414.js.map": "/Demographics/static/js/main.c4880414.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.172f71d6.css",
+    "static/js/main.c4880414.js"
+  ]
+}
